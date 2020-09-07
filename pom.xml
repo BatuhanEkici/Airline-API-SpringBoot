@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.airlines</groupId>
-	<artifactId>ws</artifactId>
+	<artifactId>AirlinesAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ws</name>
+	<name>AirlinesAPI</name>
 	<description>Airlines project for Spring Boot</description>
 
 	<properties>

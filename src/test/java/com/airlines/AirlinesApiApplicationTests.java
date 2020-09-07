@@ -1,10 +1,10 @@
-package com.airlines.ws;
+package com.airlines;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WsApplicationTests {
+class AirlinesApiApplicationTests {
 
 	@Test
 	void contextLoads() {
